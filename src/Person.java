@@ -1,5 +1,5 @@
 
 public class Person {
-	private int id;
-	private String name;
+	private int id1;
+	private String name1; 
 }
